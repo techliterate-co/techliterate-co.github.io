@@ -1,0 +1,4 @@
+# Azure
+
+Invent with purpose, realize cost savings, and make your organization more
+efficient with Microsoft Azure's open and flexible cloud computing platform.

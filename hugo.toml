@@ -1,0 +1,33 @@
+baseURL = 'https://techliterate.co/fundamentals'
+languageCode = 'en-us'
+title = 'Tech Fundamentals'
+theme = 'hugo-theme-relearn'
+
+author.name = 'Christer Edwards'
+author.emailname = 'chris@techliterate.co'
+
+minify = true
+
+[params]
+  disableSearchHiddenPages = true
+  disableSeoHiddenPages = true
+  disableTagHiddenPages = true
+  showVisitedLinks = true
+  titleSeparator = ':'
+
+[[params.themeVariant]]
+  identifier = 'relearn-dark'
+
+[[params.themeVariant]]
+  identifier = 'relearn-light'
+
+[[params.themeVariant]]
+  identifier = 'zen-dark'
+
+[[params.themeVariant]]
+    identifier = 'zen-light'
+
+[outputs]
+  home = ['html', 'rss', 'markdown', 'source']
+  page = ['html', 'markdown', 'source']
+  section = ['html', 'rss', 'markdown', 'source']
