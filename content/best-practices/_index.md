@@ -2,6 +2,9 @@
 title = "09. Best Practices"
 type = "chapter"
 weight = 9
+
+[params]
+  menuPre = '<i class="fa-solid fa-lightbulb"></i> '
 +++
 
 Modern computing best practices emphasize strong cybersecurity through

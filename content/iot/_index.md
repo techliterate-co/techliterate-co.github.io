@@ -2,6 +2,9 @@
 title = "07. Internet of Things (IoT)"
 type = "chapter"
 weight = 7
+
+[params]
+  menuPre = '<i class="fa-solid fa-globe"></i> '
 +++
 
 Internet of things (IoT) describes physical objects that are embedded with

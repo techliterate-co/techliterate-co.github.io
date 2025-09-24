@@ -2,6 +2,9 @@
 title = "08. Artificial Intelligence (AI)"
 type = "chapter"
 weight = 8
+
+[params]
+  menuPre = '<i class="fa-solid fa-brain"></i> '
 +++
 
 Artificial intelligence (AI) is the simulation of human intelligence in

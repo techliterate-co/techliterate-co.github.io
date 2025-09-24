@@ -1,6 +1,6 @@
 +++
 date = '2025-09-24T10:32:03-06:00'
-title = 'Cloud'
+title = 'Cloud Computing'
 weight = 5
 
 [params]

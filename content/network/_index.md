@@ -2,6 +2,9 @@
 title = "03. Computer Networking"
 type = "chapter"
 weight = 3
+
+[params]
+  menuPre = '<i class="fa-solid fa-wifi"></i> '
 +++
 
 

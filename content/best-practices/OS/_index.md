@@ -1,6 +1,6 @@
 +++
 date = '2025-09-24T10:32:42-06:00'
-title = 'Operating System'
+title = 'Operating Systems'
 weight = 1
 
 [params]
