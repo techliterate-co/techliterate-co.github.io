@@ -5,5 +5,5 @@ title = 'Hardware'
 weight = 1
 
 [params]
-  menuPre = '<i class="fa-solid fa-microchip"></i> '
+  menuPre = '<i class="fa-solid fa-desktop"></i> '
 +++

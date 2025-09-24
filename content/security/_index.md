@@ -4,4 +4,6 @@ type = "chapter"
 weight = 4
 +++
 
-This is a new chapter.
+Cybersecurity is the convergence of people, processes, and technology that
+combine to protect organizations, individuals, or networks from digital
+attacks.

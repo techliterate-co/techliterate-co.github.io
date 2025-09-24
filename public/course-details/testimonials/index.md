@@ -1,4 +1,0 @@
-# Testimonials
-
-Testimonials go here
-

@@ -4,5 +4,5 @@ type = "chapter"
 weight = 6
 +++
 
-Python is easy for beginners to learn. Start with the online documentation,
-which includes a brief tutorial. Installation is generally easy.
+Python is a high-level, general-purpose programming language. Its design
+philosophy emphasizes code readability with the use of significant indentation.

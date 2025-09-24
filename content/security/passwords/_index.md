@@ -1,7 +1,6 @@
 +++
 date = '2025-09-23T17:02:41-06:00'
-draft = true
-title = 'Passwords'
+title = 'Passwords / 2FA'
 weight = 1
 
 [params]

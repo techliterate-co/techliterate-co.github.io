@@ -74,7 +74,4 @@ By the end of this course, you will be able to:
 
 ---
 
-✨ **First step:** Browse the [Syllabus](../course-description/syllabus/) to see the weekly topics in detail.  
-
-📅 **Next Cohort Begins:** October 1 💳 [Reserve Your Seat Now](../enroll)  
-
+✨ **First step:** Browse the [Syllabus](../course-details/syllabus/) to see the weekly topics in detail.  

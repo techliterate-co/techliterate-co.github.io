@@ -4,4 +4,5 @@ type = "chapter"
 weight = 2
 +++
 
-This is a new chapter.
+A mobile device or handheld device is a computer small enough to hold and
+operate in hand. Mobile devices are typically battery-powered.

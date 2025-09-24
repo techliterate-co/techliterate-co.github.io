@@ -3,17 +3,18 @@ languageCode = 'en-us'
 title = 'Tech Fundamentals'
 theme = 'hugo-theme-relearn'
 
-author.name = 'Christer Edwards'
-author.emailname = 'chris@techliterate.co'
-
-minify = true
-
 [params]
   disableSearchHiddenPages = true
   disableSeoHiddenPages = true
   disableTagHiddenPages = true
   showVisitedLinks = true
   titleSeparator = ':'
+  editURL = "https://forgejo.iniquity.io/cedwards/techliterate.co-fundamentals/_edit/main/content/${FilePath}"
+  author.name = 'Christer Edwards'
+  author.emailname = 'chris@techliterate.co'
+  disableLanguages = ['pir']
+  
+  minify = true
 
 [[params.themeVariant]]
   identifier = 'relearn-dark'
@@ -28,6 +29,16 @@ minify = true
     identifier = 'zen-light'
 
 [outputs]
-  home = ['html', 'rss', 'markdown', 'source']
-  page = ['html', 'markdown', 'source']
-  section = ['html', 'rss', 'markdown', 'source']
+  home = ['html', 'rss', 'markdown', 'source', 'print']
+  page = ['html', 'markdown', 'source', 'print']
+  section = ['html', 'rss', 'markdown', 'source', 'print']
+
+[menu]
+  [[menu.shortcuts]]
+    name = 'Appendix'
+    url = '//appendix'
+    weight = 1
+  [[menu.shortcuts]]
+    name = 'Second'
+    url = '//second'
+    weight = 2

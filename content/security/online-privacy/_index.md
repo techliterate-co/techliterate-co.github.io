@@ -1,7 +1,6 @@
 +++
 date = '2025-09-23T17:02:45-06:00'
-draft = true
-title = 'Privacy'
+title = 'Online Privacy'
 weight = 2
 
 [params]

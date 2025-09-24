@@ -1,5 +1,6 @@
 +++
-title = "Course Details"
+date = '2025-09-23T16:53:26-06:00'
+title = "Appendix"
 type = "chapter"
 weight = 0
 +++
