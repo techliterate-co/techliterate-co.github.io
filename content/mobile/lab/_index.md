@@ -7,6 +7,7 @@ weight = 90
 [params]
   menuPre = '<i class="fa-solid fa-flask"></i> '
 +++
+<<<<<<< HEAD
 
 ### Lab 2: Mobile Security & Updates
 
@@ -64,3 +65,5 @@ document and submit it as instructed.
 ---
 
 #### Good luck, and stay secure!
+=======
+>>>>>>> 1dd2d889095ecc022e709745da599817dc50902e
