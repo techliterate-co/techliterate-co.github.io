@@ -1,7 +1,7 @@
 +++
 date = '2025-09-24T15:13:10-06:00'
 title = 'Glossary'
-weight = 10
+weight = 90
 
 [params]
   menuPre = '<i class="fa-solid fa-magnifying-glass"></i> '

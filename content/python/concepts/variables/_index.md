@@ -7,3 +7,5 @@ weight = 1
 [params]
   menuPre = '<i class="fa-brands fa-python"></i> '
 +++
+
+{{< youtube IXr0-J5XXMA >}}

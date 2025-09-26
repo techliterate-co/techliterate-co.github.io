@@ -6,7 +6,7 @@ weight = 1
 
 # Digital Literacy & Cybersecurity Foundations
 
-Welcome to **Tech Fundamentals**, a 12-week program designed to transform how
+Welcome to **Tech Fundamentals**, a 10-week program designed to transform how
 you see and use technology.  This course is built for non-technical learners
 who want to **feel confident managing their devices, secure their digital
 lives, and speak the language of tech** in today’s world of cloud services, AI,
@@ -74,4 +74,4 @@ By the end of this course, you will be able to:
 
 ---
 
-✨ **First step:** Browse the [Syllabus](../course-details/syllabus/) to see the weekly topics in detail.  
+✨ **First step:** Browse the [Syllabus](../appendix/syllabus/) to see the weekly topics in detail.  

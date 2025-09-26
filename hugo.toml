@@ -15,16 +15,20 @@ theme = 'hugo-theme-relearn'
   disableLanguages = ['pir']
 
 [[params.themeVariant]]
-  identifier = 'relearn-dark'
-
-[[params.themeVariant]]
-  identifier = 'relearn-light'
+  identifier = 'auto'
 
 [[params.themeVariant]]
   identifier = 'zen-dark'
 
 [[params.themeVariant]]
     identifier = 'zen-light'
+
+[[params.themeVariant]]
+  identifier = 'relearn-dark'
+
+[[params.themeVariant]]
+  identifier = 'relearn-light'
+
 
 [outputs]
   home = ['html', 'rss', 'markdown', 'source', 'print']
