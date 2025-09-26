@@ -7,6 +7,7 @@ weight = 90
 [params]
   menuPre = '<i class="fa-solid fa-flask"></i> '
 +++
+<<<<<<< HEAD
 
 ### Lab 4: Your Digital Footprint & Online Privacy
 
@@ -86,3 +87,5 @@ one from Quad9.
 
 #### Good luck, and happy sleuthing!
 
+=======
+>>>>>>> 1dd2d889095ecc022e709745da599817dc50902e
