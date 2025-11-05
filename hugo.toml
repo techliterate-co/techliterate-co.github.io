@@ -1,18 +1,20 @@
-baseURL = 'https://techliterate.co/fundamentals'
+baseURL = 'https://library.techliterate.co/fundamentals'
 languageCode = 'en-us'
 title = 'Tech Fundamentals'
 theme = 'hugo-theme-relearn'
 
 [params]
+  author.emailname = 'chris@techliterate.co'
+  author.name = 'Christer Edwards'
+  disableLanguages = ['pir']
   disableSearchHiddenPages = true
   disableSeoHiddenPages = true
   disableTagHiddenPages = true
+  editURL = "https://forgejo.iniquity.io/cedwards/techliterate.co-fundamentals/_edit/main/content/${FilePath}"
+  mermaidInitialize = '{ "flowchart": { "useMaxWidth": false, "nodeSpacing": 40, "rankSpacing": 70, "htmlLabels": true } }'
+  mermaidZoom = true
   showVisitedLinks = true
   titleSeparator = ':'
-  editURL = "https://forgejo.iniquity.io/cedwards/techliterate.co-fundamentals/_edit/main/content/${FilePath}"
-  author.name = 'Christer Edwards'
-  author.emailname = 'chris@techliterate.co'
-  disableLanguages = ['pir']
 
 [[params.themeVariant]]
   identifier = 'auto'
