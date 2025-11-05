@@ -1,6 +1,5 @@
 +++
 date = '2025-09-23T16:30:02-06:00'
-draft = true
 title = "AWS"
 weight = 2
 

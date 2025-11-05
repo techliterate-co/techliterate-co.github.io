@@ -1,6 +1,5 @@
 +++
 date = '2025-09-23T19:54:59-06:00'
-draft = true
 title = 'Linux'
 weight = 3
 

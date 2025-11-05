@@ -1,14 +1,11 @@
 +++
 date = '2025-09-23T19:55:36-06:00'
-draft = true
 title = 'Windows'
 weight = 2
 
 [params]
   menuPre = '<i class="fa-brands fa-windows"></i> '
 +++
-
-### Understanding Microsoft Windows
 
 **Microsoft Windows** is the most widely used desktop operating system in the
 world. It runs on the majority of personal computers, from home laptops to

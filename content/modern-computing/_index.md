@@ -1,7 +1,8 @@
 +++
-title = "01. Modern Computing"
+title = "02. Modern Computing"
 type = 'chapter'
-weight = 1
+draft = true
+weight = 2
 
 [params]
   menuPre = '<i class="fa-solid fa-laptop"></i> '

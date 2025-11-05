@@ -1,6 +1,5 @@
 +++
 date = '2025-09-23T16:55:51-06:00'
-draft = true
 title = 'Domain Name System (DNS)'
 linkTitle = 'DNS'
 weight = 3

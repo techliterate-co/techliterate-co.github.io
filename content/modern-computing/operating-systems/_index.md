@@ -1,6 +1,5 @@
 +++
-date = '2025-09-23T14:16:52-06:00'
-draft = true
+date = '2025-11-05T04:11:52-06:00'
 title = 'Operating Systems'
 weight = 2
 

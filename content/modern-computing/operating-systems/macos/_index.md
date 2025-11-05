@@ -1,14 +1,11 @@
 +++
 date = '2025-09-23T19:55:52-06:00'
-draft = true
 title = 'macOS'
 weight = 1
 
 [params]
   menuPre = '<i class="fa-brands fa-apple"></i> '
 +++
-
-### Understanding macOS
 
 **macOS** is Apple’s desktop operating system, the software that powers
 MacBooks, iMacs, and Mac Minis. At its core, macOS is built on a UNIX

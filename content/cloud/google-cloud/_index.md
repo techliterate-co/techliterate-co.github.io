@@ -1,6 +1,5 @@
 +++
 date = '2025-09-23T16:30:13-06:00'
-draft = true
 title = 'Google Cloud'
 weight = 4
 

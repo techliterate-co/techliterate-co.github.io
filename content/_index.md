@@ -6,21 +6,49 @@ weight = 1
 
 # Digital Literacy & Cybersecurity Foundations
 
-Welcome to **Tech Fundamentals**, a 10-week program designed to transform how
+Welcome to **Tech Fundamentals**, a 5-week program designed to transform how
 you see and use technology.  This course is built for non-technical learners
 who want to **feel confident managing their devices, secure their digital
-lives, and speak the language of tech** in today’s world of cloud services, AI,
-and constant connectivity.  
+lives, and speak the language of tech**. In today’s world of cloud services,
+AI, and constant connectivity being fluent in technology is no longer optional.
 
 ---
 
 ## Why Take This Course?
 
-Every job, every career, every part of modern life depends on digital skills.
-Yet many people feel overwhelmed by jargon, security threats, or just keeping
-up with daily tools.  Tech Fundamentals is here to **bridge that gap**—from
-smartphones and routers to programming and cloud services. By the end, you’ll
-not only *use* technology, you’ll *understand* it.
+### Why This Course
+
+In today’s world, every professional needs more than just a smartphone and an
+email address. They need the confidence to manage devices, understand technical
+jargon, secure their digital life, and speak the language of technology. This
+course is designed for non-technical learners who want to feel capable in
+everyday tech use and build the foundation for a career in tech.
+
+As Carl Sagan once warned, *"We’ve arranged a society based on science and
+technology, in which nobody understands anything about science and technology.
+And this combustible mixture of ignorance and power, sooner or later, is going
+to blow up in our faces."* This course is a direct response to that
+challenge—an invitation to move from passive user to informed participant.
+Instead of treating technology like a mysterious force that simply “works” or
+“doesn’t,” we’ll open the black boxes and explain what’s really happening
+inside.
+
+Through hands-on labs, guided exploration, and plain-language explanations,
+you’ll see behind the curtain—learning how computers, networks, and cloud
+systems actually function. You’ll discover that technology is not magic, but
+logic; not unknowable, but learnable. Think of it as a chance to *see inside
+the Matrix* and understand the systems that quietly shape every part of modern
+life.
+
+By the end of this program, you won’t just know how to use your devices—you’ll
+understand them. You’ll be equipped to make smarter decisions, solve problems
+more confidently, and engage in conversations about technology with clarity and
+authority. In a world driven by digital tools, this knowledge isn’t
+optional—it’s power, awareness, and resilience.
+
+This course is your invitation to step out of uncertainty and into
+understanding—to replace mystery with mastery, and to become fluent in the
+language of the future.
 
 ---
 
@@ -31,11 +59,6 @@ not only *use* technology, you’ll *understand* it.
 - **Networking Basics**: Wi-Fi, routers, DNS, troubleshooting connections.  
 - **Cybersecurity Essentials**: strong passwords, phishing defense, privacy tools, digital footprint.  
 - **Cloud Computing**: storing files, deploying a simple site/app, understanding risks & costs.  
-- **Programming Foundations**: Python basics, debugging, intro to version control.  
-- **Data & Collaboration**: spreadsheets, shared docs, email/calendar etiquette, professional presence online.  
-- **IoT & Smart Tech**: GPS, sensors, smart homes, security challenges.  
-- **AI & Emerging Tech**: how AI works, prompt basics, ethics, and real-world applications.  
-- **Capstone Project**: securing your own digital life and presenting your results.
 
 ---
 
@@ -49,7 +72,6 @@ By the end of this course, you will be able to:
 - Generate and manage strong passwords and use multi-factor authentication.  
 - Spot phishing attempts and online scams before they catch you.  
 - Use cloud services effectively and securely.  
-- Write and debug simple Python scripts for real-world tasks.  
 - Collaborate online with shared documents and version control.  
 - Evaluate online information for accuracy, reliability, and bias.  
 - Present a professional, secure digital presence that supports your career
@@ -59,7 +81,7 @@ By the end of this course, you will be able to:
 
 ## Course Format
 
-- **Duration:** 12 weeks (3 months)  
+- **Duration:** 5 weeks
 - **Sessions:** Weekly 90-minute live classes + optional office hours  
 - **Materials:** Supplementary text & video library for self-paced study  
 - **Community:** Cohort learning environment with shared discussions and peer support  

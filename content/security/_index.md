@@ -1,5 +1,6 @@
 +++
 title = "04. Cybersecurity"
+draft = true
 type = "chapter"
 weight = 4
 
