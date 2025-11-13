@@ -7,8 +7,6 @@ weight = 6
   menuPre = '<i class="fa-solid fa-database"></i> '
 +++
 
-## Research & Data
-
 {{< mermaid align="center" zoom="true" >}}
 %%{init: {"flowchart": {"useMaxWidth": false, "nodeSpacing": 40, "rankSpacing": 70, "htmlLabels": true}} }%%
 flowchart TB

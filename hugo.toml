@@ -12,30 +12,30 @@ theme = 'hugo-theme-relearn'
   disableTagHiddenPages = true
   editURL = "https://forgejo.iniquity.io/cedwards/techliterate.co-fundamentals/_edit/main/content/${FilePath}"
   mermaidInitialize = '{ "flowchart": { "useMaxWidth": false, "nodeSpacing": 40, "rankSpacing": 70, "htmlLabels": true } }'
-  mermaidZoom = true
+  mermaidZoom = false
   showVisitedLinks = true
   titleSeparator = ':'
 
 [[params.themeVariant]]
   identifier = 'auto'
-
 [[params.themeVariant]]
   identifier = 'zen-dark'
-
 [[params.themeVariant]]
     identifier = 'zen-light'
 
-[[params.themeVariant]]
-  identifier = 'relearn-dark'
-
-[[params.themeVariant]]
-  identifier = 'relearn-light'
+#[[params.themeVariant]]
+#  identifier = 'relearn-dark'
+#
+#[[params.themeVariant]]
+#  identifier = 'relearn-light'
 
 
 [outputs]
-  home = ['html', 'rss', 'markdown', 'source', 'print']
-  page = ['html', 'markdown', 'source', 'print']
-  section = ['html', 'rss', 'markdown', 'source', 'print']
+  home = ['html', 'print']
+  page = ['html', 'print']
+  section = ['html', 'print']
+  #home = ['html', 'rss', 'markdown', 'source', 'print']
+  #page = ['html', 'markdown', 'source', 'print']
 
 ##[menu]
 ##  [[menu.shortcuts]]

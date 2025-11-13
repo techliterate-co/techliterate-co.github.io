@@ -7,8 +7,6 @@ weight = 2
   menuPre = '<i class="fa-solid fa-code"></i> '
 +++
 
-### Operating Systems
-
 Every computer, smartphone, and server relies on an **operating system (OS)**.
 The OS is the layer of software that sits between the physical hardware and the
 applications you use. It manages memory, storage, and input/output devices, and

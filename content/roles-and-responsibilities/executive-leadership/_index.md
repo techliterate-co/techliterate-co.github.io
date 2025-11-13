@@ -7,8 +7,6 @@ weight = 1
   menuPre = '<i class="fa-solid fa-people-group"></i> '
 +++
 
-## Executive Overview
-
 {{< mermaid align="center" zoom="true" >}}
 %%{init: {"flowchart": {"useMaxWidth": false, "nodeSpacing": 40, "rankSpacing": 70, "htmlLabels": true}} }%%
 flowchart TB

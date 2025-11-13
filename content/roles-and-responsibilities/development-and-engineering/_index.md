@@ -7,8 +7,6 @@ weight = 3
   menuPre = '<i class="fa-solid fa-gears"></i> '
 +++
 
-## Engineering
-
 {{< mermaid align="center" zoom="true" >}}
 %%{init: {"flowchart": {"useMaxWidth": false, "nodeSpacing": 40, "rankSpacing": 70, "htmlLabels": true}} }%%
 flowchart TB

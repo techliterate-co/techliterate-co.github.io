@@ -152,19 +152,11 @@ What is an Operating System (OS)?
 - [ ] A type of memory used for caching.
 - [ ] A component that powers the computer.
 
-## Match the components to their function!
+## Mobile Operating Systems
 
-> Match each component to its primary role in a computer system.
-
-1. CPU
-2. RAM
-3. Motherboard
-4. SSD
-
-1. The "brain"
-2. The "short-term memory"
-3. The "nervous system"
-4. The "filing cabinet"
+---
+shuffle_answers: true
+---
 
 Which mobile operating system is developed by Google and is known for its open-source nature and customization?
 

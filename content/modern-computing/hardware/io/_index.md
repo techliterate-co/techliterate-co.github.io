@@ -17,8 +17,6 @@ speakers, take the computer's digital signals and convert them into something
 you can see or hear. Without I/O, a computer would be a useless box of
 electronics with no way to receive instructions or show you what it's doing.
 
-***
-
 In a modern computer system, I/O devices are often called **peripherals**.
 These can be internal or external. Internal I/O includes things like your hard
 drive or SSD, which both input and output data as they read and write files.
@@ -28,8 +26,6 @@ jacks) are crucial because they provide the physical connections for these
 peripherals to plug into and communicate with the CPU and other components. The
 motherboard also contains a special set of chips called the **chipset** that
 helps manage the flow of data between the CPU and all the I/O devices.
-
-***
 
 The efficiency of a computer's I/O system is critical for a smooth user
 experience. For example, a fast **SSD** (Solid-State Drive) reduces the time it

@@ -7,8 +7,6 @@ weight = 5
   menuPre = '<i class="fa-solid fa-shield"></i> '
 +++
 
-## Security & Compliance
-
 {{< mermaid align="center" zoom="true" >}}
 %%{init: {"flowchart": {"useMaxWidth": false, "nodeSpacing": 40, "rankSpacing": 70, "htmlLabels": true}} }%%
 flowchart TB

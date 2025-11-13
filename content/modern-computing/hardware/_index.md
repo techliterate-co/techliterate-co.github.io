@@ -44,3 +44,6 @@ components—CPU, RAM, storage, and I/O—gives you the foundation to see how
 computers really work, and it prepares you to troubleshoot problems or make
 informed upgrade decisions later.
 
+### Kitchen Analogy Video
+
+{{< youtube JXOqQ9o7L3k >}}

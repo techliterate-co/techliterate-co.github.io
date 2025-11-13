@@ -16,8 +16,6 @@ install a game, that data is being written to a storage device. Without
 storage, your computer would have to be re-installed from scratch every time
 you turned it on.
 
-***
-
 There are two main types of storage devices in modern computers: **Hard Disk
 Drives (HDDs)** and **Solid-State Drives (SSDs)**.  An **HDD** is an older
 technology that uses spinning metal platters and a read/write head to store and
@@ -27,8 +25,6 @@ choice for storing large files like movies and photos. An **SSD** is a newer
 technology that uses flash memory chips to store data electronically. Because
 it has no moving parts, an SSD is much faster, more durable, and consumes less
 power than an HDD.
-
-***
 
 Storage devices connect to the **motherboard** via cables (like SATA or NVMe)
 that allow them to transfer data to and from the other components, especially

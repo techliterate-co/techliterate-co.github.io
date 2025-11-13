@@ -7,7 +7,7 @@ weight = 2
   menuPre = '<i class="fa-solid fa-memory"></i> '
 +++
 
-**Random Access Memory (RAM)** 🧠 is a type of volatile computer memory that
+**Random Access Memory (RAM)** is a type of volatile computer memory that
 temporarily stores data and instructions for the CPU to access quickly. Think
 of it as a computer’s short-term memory or a workspace on your desk. When you
 open an application or a file, the computer loads it from your long-term
@@ -16,8 +16,6 @@ the data much faster than it could from the slower, permanent storage, which is
 why a computer with more RAM can run more programs smoothly at the same time.
 However, RAM is **volatile**, meaning it loses all its information when the
 computer is turned off.
-
-***
 
 In a modern computer, RAM comes in the form of a small circuit board called a
 **memory module** or **stick**. These sticks are inserted into specific slots
@@ -29,8 +27,6 @@ temporary RAM to the slower, permanent storage on your hard drive. The more RAM
 a computer has, the more "workspace" it has for running applications and
 handling large files, which is crucial for tasks like gaming, video editing, or
 having many browser tabs open at once.
-
-***
 
 The performance of RAM is measured by its **capacity** (how much data it can
 hold, measured in gigabytes or GB) and its **speed** (how fast it can transfer

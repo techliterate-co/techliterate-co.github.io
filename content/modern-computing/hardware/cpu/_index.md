@@ -7,7 +7,7 @@ weight = 1
   menuPre = '<i class="fa-solid fa-microchip"></i> '
 +++
 
-The **Central Processing Unit (CPU)** 🧠 is the brain of a computer,
+The **Central Processing Unit (CPU)** is the brain of a computer,
 responsible for carrying out the instructions that make everything work. Think
 of it as the main command center that processes data and executes tasks. Every
 action you take on a computer, from a simple click of the mouse to launching a
@@ -17,8 +17,6 @@ making it the most important component for a computer's overall speed and
 performance. Without a CPU, a computer wouldn't be able to run any programs or
 even turn on.
 
-***
-
 In a modern computer, the CPU is a small, square-shaped chip that fits into a
 special slot on the **motherboard**. The motherboard acts like the nervous
 system of the computer, connecting the CPU to all the other parts, like the
@@ -27,8 +25,6 @@ The CPU communicates with these components through pathways called **buses**.
 When you open a program, the CPU fetches the program's instructions from the
 RAM, processes them, and then sends the results back to the RAM or to another
 component, like the GPU to display something on your screen.
-
-***
 
 The efficiency of a CPU is measured by its **clock speed** (how many cycles it
 can complete per second) and the number of **cores** it has. A single core is a

@@ -1,7 +1,6 @@
 +++
 title = "02. Modern Computing"
 type = 'chapter'
-draft = true
 weight = 2
 
 [params]
