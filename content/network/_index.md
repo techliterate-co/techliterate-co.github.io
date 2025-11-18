@@ -1,7 +1,6 @@
 +++
 title = "03. Computer Networking"
 type = "chapter"
-draft = true
 weight = 3
 
 [params]
