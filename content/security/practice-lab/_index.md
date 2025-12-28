@@ -6,8 +6,6 @@ weight = 90
 [params]
   menuPre = '<i class="fa-solid fa-flask"></i> '
 +++
-<<<<<<< HEAD
-
 ### Lab 4: Your Digital Footprint & Online Privacy
 
 #### Objective
@@ -32,8 +30,8 @@ footprint and installing a privacy toolkit for your primary web browser.
 **Step 1: Audit Your Digital Footprint**
 Let's see what the internet knows about you!
 
-1.  Open a search engine and search for your full name.
-2.  Review the first few pages of search results. Do you find old social media profiles, forum posts, or other information you had forgotten about?
+1.  Visit https://amiunique.org/fingerprint and https://coveryourtracks.eff.org/.
+2.  Click "Test Your Browser" if prompted and wait for scan to finish.
 3.  Write down a brief summary of what you found. 
 
 **Step 2: Password Checkup**
@@ -80,11 +78,7 @@ one from Quad9.
     * **On macOS:** Go to "System Settings," then "Network," and find the "DNS Servers" section.
     * **On Mobile:** Look in your Wi-Fi settings for a "Modify Network" option.
 3.  **Enter the Addresses:** Change the DNS server addresses to `9.9.9.9` and `149.112.112.112`.
-4.  **Test It:** To confirm it's working, try to visit a known malicious website (you can find lists of these online or ask your instructor for a safe test link). The site should not load, and you should see an error message.
 
 ---
 
 #### Good luck, and happy sleuthing!
-
-=======
->>>>>>> 1dd2d889095ecc022e709745da599817dc50902e

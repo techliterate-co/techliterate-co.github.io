@@ -1,6 +1,5 @@
 +++
 title = "05. Cloud Computing"
-draft = true
 type = "chapter"
 weight = 5
 
@@ -10,94 +9,64 @@ weight = 5
 
 ![There is no cloud](/fundamentals/img/there-is-no-cloud.png)
 
-Cloud computing is a paradigm for enabling network access to a scalable and
-elastic pool of shareable physical or virtual resources physically stored in a
-data-center.
-
 ---
 
-But we're not going to talk about that. Today we're going to talk about your assignment to eat pizza before class.
+Technical definitions of Cloud Computing usually sound something like this: 'A
+paradigm for enabling network access to a scalable and elastic pool of
+shareable physical resources...'
 
-Again, it didn't matter where or how you procured or prepared the pizza, but hopefully you were able to complete it. Easiest homework ever, am I right?
+Boring, right? We aren’t going to talk about that. Today, we’re going to talk
+about Pizza.
 
-And, yes, we're going to use pizza to teach you key cloud paradigms.
+Believe it or not, the different ways you might order a pizza also represent
+the Cloud Service Models.
 
-In this section we're going to compare the different means and methods that we each took to procure or prepare a pizza.
+Let's look at the three methods you could use:
 
-Some percentage of the students will get online and order delivery. Dominoes or the like.
+Group 1: The Delivery Squad. You go online, order Domino’s, and wait. You
+don’t shop for ingredients, you don’t knead dough, and you don’t preheat an
+oven. You wanted a result delivered to your door in 30 minutes or less.
 
-Others will use a take-and-bake service, like Pappa Murphy's, to order but then heat the pizza at home later.
+Group 2: The Take-and-Bake Crew. You go to Papa Murphy’s. You buy a
+pre-assembled pizza, but you take it home to bake it yourself. You were fine
+handing over the hard work (sourcing ingredients and prep), but you wanted
+control over the final execution—maybe you like it extra crispy.
 
-This group is fine handing over some control of the process, but not all of it. They likely have preferences on heat and cook times.
+Group 3: The DIY Chefs. You have the equipment, the ingredients, and the
+patience. You controll every single component, from the flour ratio in the
+dough to the temperature of the oven.
 
-Maybe they like their 'za extra crispy. Who knows.
+These three groups represent the three primary cloud service models: SaaS, PaaS, and IaaS.
 
-Then there will be the students that make their own pizza.
+1. SaaS (Software as a Service) – The Delivery.
 
-They have the equipment. They have the ingredients. They have the time and patience.
+The Analogy: Just like ordering Domino’s, you consume the product without
+worrying about how it was made.
 
-These students have complete control over every compontent of the process. From sourcing ingredients to preparation to baking.
+The Tech: You use the software, but manage nothing. Think Netflix, Gmail, or Microsoft 365. You pay a subscription, and it just works.
 
-How does this compare with the other two groups?
+2. PaaS (Platform as a Service) – The Take-and-Bake.
 
-The first group gets online and orders Dominoes to be delivered. They are not (and likely don't want to be) involved in procuring ingredients.
+The Analogy: The vendor provides the raw structure (the pre-made pizza), but
+you handle the final execution (the baking).
 
-They likely don't care to be involved in the preparation process, or the baking or for that matter even the delivery.
+The Tech: You focus on building applications (the code), while the vendor
+handles the hardware and operating systems. You bring the code; they provide
+the platform to run it.
 
-These students want a pizza magically delivered to their front door in thirty minutes or less!
+3. IaaS (Infrastructure as a Service) – The DIY Chef.
 
----
+The Analogy: You do it yourself. You have full control over the ingredients and
+the process, provided you have the kitchen to do it in.
 
-These three groups represent the key principles described in the three core cloud paradigms.
+The Tech: You rent the raw hardware (servers, storage, networking) and you are
+responsible for everything on top of it: installing the OS, patching security
+holes, and managing data.
 
-SaaS - this is the first group. 30 minutes or its free, zero work done by me!
+The Key Takeaway: The difference comes down to Control vs. Convenience.
 
-PaaS - this is the take-and-bake group. ingredients and preparation by them, producing a cooked pizza by you.
+IaaS: I manage everything (Infrastructure).
 
-IaaS - this is the third group. diy. full control. when provided with raw infrastructure, you can bake so much pizza!
+PaaS: I manage the programs (Platform).
 
-The key difference is that IaaS is for building infrastructure, PaaS is for building applications, while SaaS is for using pre-built applications.
-
-Another key difference is the decreasing level of user control and management responsibility from IaaS to PaaS to SaaS.
-
-In an IaaS the customer chooses from available hardware, selects operating system, manages patches, manages data integrity and privacy and handles networking.
-
-In a PaaS the customer simply selects a SDK (programming language) and begins developing code, without the hassle of hardware, OS, patching, or data management.I
-
-In a SaaS the customer simply uses the service. You could also think of it as "service as a subscription", ie; Netflix, Microsoft 365, YouTube, Twitch, etc.
-
-So I remember it like this:
-IaaS - **I** manage everything, 
-PaaS - I manage **programs** but don’t manage the infrastructure, 
-SaaS - I pay for a **subscription** to a service.
-
-* Remember: if you don't pay for the product (or you run it yourself in an IaaS or self-hosted), then you **are** the product. 
-
----
-
-That's, at a high level, the definition of the cloud as taught by last week's assignment, eating pizza.
-
-You were learning and didn't even know it yet. That's gotta be gold star worthy for this instructor! :star:
-
----
-
-So, let's give you some examples of how the cloud services you might be familiar with fall into these three categories.
-
-Multiple choice game:
-
-Netflix - *SaaS/IaaS/PaaS?
-Gmail - *SaaS/IaaS/PaaS?
-Amazon EC2 - IaaS
-Amazon S3 - IaaS
-Google App Engine - PaaS
-Digital Ocean - IaaS
-Microsoft Azure - IaaS
-Rackspace
-VMware
-Joyent
-Salesforce
-DocuSign
-Dropbox
-Heroku
-IBM Cloud
-
+SaaS: I pay for a subscription (Software).
